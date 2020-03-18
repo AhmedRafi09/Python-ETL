@@ -1,0 +1,401 @@
+N_ID,Particulars,Year,Months,ItemDescription,UoM,Qty,Date,Target Qty
+1,Manufactured,2019,September,12 KG,PCS,1500,1-Sep-19,1470
+2,Manufactured,2019,September,33 KG,PCS,250,1-Sep-19,245
+3,Manufactured,2019,September,45 KG,PCS,100,1-Sep-19,98
+4,Purchased,2019,September,12 KG,PCS,30000,1-Sep-19,29400
+5,Purchased,2019,September,33 KG,PCS,7000,1-Sep-19,6860
+6,Purchased,2019,September,45 KG,PCS,500,1-Sep-19,490
+7,Refilled Cylinder,2019,September,12 KG,PCS,50000,1-Sep-19,49000
+8,Refilled Cylinder,2019,September,33 KG,PCS,100,1-Sep-19,98
+9,Refilled Cylinder,2019,September,45 KG,PCS,20,1-Sep-19,19.6
+10,Delivered,2019,September,12 KG,PKG,2000,1-Sep-19,1960
+11,Delivered,2019,September,12 KG,RFL,30000,1-Sep-19,29400
+12,Delivered,2019,September,33 KG,PKG,100,1-Sep-19,98
+13,Delivered,2019,September,33 KG,RFL,50,1-Sep-19,49
+14,Delivered,2019,September,45 KG,PKG,20,1-Sep-19,19.6
+15,Delivered,2019,September,45 KG,RFL,10,1-Sep-19,9.8
+16,Bulk Gas Delivered,2019,September,LPG (Bulk),MT,30,1-Sep-19,29.4
+17,Manufactured,2019,October,12 KG,PCS,3000,1-Oct-19,2940
+18,Manufactured,2019,October,33 KG,PCS,150,1-Oct-19,147
+19,Manufactured,2019,October,45 KG,PCS,50,1-Oct-19,49
+20,Purchased,2019,October,12 KG,PCS,0,1-Oct-19,0
+21,Purchased,2019,October,33 KG,PCS,0,1-Oct-19,0
+22,Purchased,2019,October,45 KG,PCS,0,1-Oct-19,0
+23,Refilled Cylinder,2019,October,12 KG,PCS,40000,1-Oct-19,39200
+24,Refilled Cylinder,2019,October,33 KG,PCS,120,1-Oct-19,117.6
+25,Refilled Cylinder,2019,October,45 KG,PCS,20,1-Oct-19,19.6
+26,Delivered,2019,October,12 KG,PKG,4500,1-Oct-19,4410
+27,Delivered,2019,October,12 KG,RFL,45000,1-Oct-19,44100
+28,Delivered,2019,October,33 KG,PKG,100,1-Oct-19,98
+29,Delivered,2019,October,33 KG,RFL,75,1-Oct-19,73.5
+30,Delivered,2019,October,45 KG,PKG,100,1-Oct-19,98
+31,Delivered,2019,October,45 KG,RFL,50,1-Oct-19,49
+32,Bulk Gas Delivered,2019,October,LPG (Bulk),MT,45,1-Oct-19,44.1
+33,Manufactured,2019,November,12 KG,PCS,5000,1-Nov-19,4900
+34,Manufactured,2019,November,33 KG,PCS,200,1-Nov-19,196
+35,Manufactured,2019,November,45 KG,PCS,100,1-Nov-19,98
+36,Purchased,2019,November,12 KG,PCS,8000,1-Nov-19,7840
+37,Purchased,2019,November,33 KG,PCS,3500,1-Nov-19,3430
+38,Purchased,2019,November,45 KG,PCS,0,1-Nov-19,0
+39,Refilled Cylinder,2019,November,12 KG,PCS,55000,1-Nov-19,53900
+40,Refilled Cylinder,2019,November,33 KG,PCS,300,1-Nov-19,294
+41,Refilled Cylinder,2019,November,45 KG,PCS,120,1-Nov-19,117.6
+42,Delivered,2019,November,12 KG,PKG,10000,1-Nov-19,9800
+43,Delivered,2019,November,12 KG,RFL,45000,1-Nov-19,44100
+44,Delivered,2019,November,33 KG,PKG,200,1-Nov-19,196
+45,Delivered,2019,November,33 KG,RFL,150,1-Nov-19,147
+46,Delivered,2019,November,45 KG,PKG,200,1-Nov-19,196
+47,Delivered,2019,November,45 KG,RFL,100,1-Nov-19,98
+48,Bulk Gas Delivered,2019,November,LPG (Bulk),MT,78,1-Nov-19,76.44
+49,Manufactured,2019,December,12 KG,PCS,1500,1-Dec-19,1470
+50,Manufactured,2019,December,33 KG,PCS,250,1-Dec-19,245
+51,Manufactured,2019,December,45 KG,PCS,100,1-Dec-19,98
+52,Purchased,2019,December,12 KG,PCS,0,1-Dec-19,0
+53,Purchased,2019,December,33 KG,PCS,0,1-Dec-19,0
+54,Purchased,2019,December,45 KG,PCS,0,1-Dec-19,0
+55,Refilled Cylinder,2019,December,12 KG,PCS,50000,1-Dec-19,49000
+56,Refilled Cylinder,2019,December,33 KG,PCS,100,1-Dec-19,98
+57,Refilled Cylinder,2019,December,45 KG,PCS,20,1-Dec-19,19.6
+58,Delivered,2019,December,12 KG,PKG,2000,1-Dec-19,1960
+59,Delivered,2019,December,12 KG,RFL,30000,1-Dec-19,29400
+60,Delivered,2019,December,33 KG,PKG,100,1-Dec-19,98
+61,Delivered,2019,December,33 KG,RFL,50,1-Dec-19,49
+62,Delivered,2019,December,45 KG,PKG,20,1-Dec-19,19.6
+63,Delivered,2019,December,45 KG,RFL,10,1-Dec-19,9.8
+64,Bulk Gas Delivered,2019,December,LPG (Bulk),MT,55,1-Dec-19,53.9
+65,Manufactured,2020,January,12 KG,PCS,2000,1-Jan-20,1960
+66,Manufactured,2020,January,33 KG,PCS,0,1-Jan-20,0
+67,Manufactured,2020,January,45 KG,PCS,0,1-Jan-20,0
+68,Purchased,2020,January,12 KG,PCS,0,1-Jan-20,0
+69,Purchased,2020,January,33 KG,PCS,0,1-Jan-20,0
+70,Purchased,2020,January,45 KG,PCS,0,1-Jan-20,0
+71,Refilled Cylinder,2020,January,12 KG,PCS,40000,1-Jan-20,39200
+72,Refilled Cylinder,2020,January,33 KG,PCS,300,1-Jan-20,294
+73,Refilled Cylinder,2020,January,45 KG,PCS,100,1-Jan-20,98
+74,Delivered,2020,January,12 KG,PKG,1000,1-Jan-20,980
+75,Delivered,2020,January,12 KG,RFL,30000,1-Jan-20,29400
+76,Delivered,2020,January,33 KG,PKG,0,1-Jan-20,0
+77,Delivered,2020,January,33 KG,RFL,500,1-Jan-20,490
+78,Delivered,2020,January,45 KG,PKG,0,1-Jan-20,0
+79,Delivered,2020,January,45 KG,RFL,300,1-Jan-20,294
+80,Bulk Gas Delivered,2020,January,LPG (Bulk),MT,38,1-Jan-20,37.24
+81,Manufactured,2018,January,12 KG,PCS,2559.375,1-Jan-18,2508.1875
+82,Manufactured,2018,January,33 KG,PCS,127.96875,1-Jan-18,125.409375
+83,Manufactured,2018,January,45 KG,PCS,42.65625,1-Jan-18,41.803125
+84,Purchased,2018,January,12 KG,PCS,0,1-Jan-18,0
+85,Purchased,2018,January,33 KG,PCS,0,1-Jan-18,0
+86,Purchased,2018,January,45 KG,PCS,0,1-Jan-18,0
+87,Refilled Cylinder,2018,January,12 KG,PCS,34125,1-Jan-18,33442.5
+88,Refilled Cylinder,2018,January,33 KG,PCS,102.375,1-Jan-18,100.3275
+89,Refilled Cylinder,2018,January,45 KG,PCS,17.0625,1-Jan-18,16.72125
+90,Delivered,2018,January,12 KG,PKG,3839.0625,1-Jan-18,3762.28125
+91,Delivered,2018,January,12 KG,RFL,38390.625,1-Jan-18,37622.8125
+92,Delivered,2018,January,33 KG,PKG,85.3125,1-Jan-18,83.60625
+93,Delivered,2018,January,33 KG,RFL,63.984375,1-Jan-18,62.7046875
+94,Delivered,2018,January,45 KG,PKG,85.3125,1-Jan-18,83.60625
+95,Delivered,2018,January,45 KG,RFL,42.65625,1-Jan-18,41.803125
+96,Bulk Gas Delivered,2018,January,LPG (Bulk),MT,38.390625,1-Jan-18,37.6228125
+97,Manufactured,2018,February,12 KG,PCS,4905.46875,1-Feb-18,4807.359375
+98,Manufactured,2018,February,33 KG,PCS,196.21875,1-Feb-18,192.294375
+99,Manufactured,2018,February,45 KG,PCS,98.109375,1-Feb-18,96.1471875
+100,Purchased,2018,February,12 KG,PCS,7848.75,1-Feb-18,7691.775
+101,Purchased,2018,February,33 KG,PCS,3433.828125,1-Feb-18,3365.151563
+102,Purchased,2018,February,45 KG,PCS,0,1-Feb-18,0
+103,Refilled Cylinder,2018,February,12 KG,PCS,53960.15625,1-Feb-18,52880.95313
+104,Refilled Cylinder,2018,February,33 KG,PCS,294.328125,1-Feb-18,288.4415625
+105,Refilled Cylinder,2018,February,45 KG,PCS,117.73125,1-Feb-18,115.376625
+106,Delivered,2018,February,12 KG,PKG,9810.9375,1-Feb-18,9614.71875
+107,Delivered,2018,February,12 KG,RFL,44149.21875,1-Feb-18,43266.23438
+108,Delivered,2018,February,33 KG,PKG,196.21875,1-Feb-18,192.294375
+109,Delivered,2018,February,33 KG,RFL,147.1640625,1-Feb-18,144.2207813
+110,Delivered,2018,February,45 KG,PKG,196.21875,1-Feb-18,192.294375
+111,Delivered,2018,February,45 KG,RFL,98.109375,1-Feb-18,96.1471875
+112,Bulk Gas Delivered,2018,February,LPG (Bulk),MT,76.5253125,1-Feb-18,74.99480625
+113,Manufactured,2018,March,12 KG,PCS,1471.640625,1-Mar-18,1442.207813
+114,Manufactured,2018,March,33 KG,PCS,245.2734375,1-Mar-18,240.3679688
+115,Manufactured,2018,March,45 KG,PCS,98.109375,1-Mar-18,96.1471875
+116,Purchased,2018,March,12 KG,PCS,0,1-Mar-18,0
+117,Purchased,2018,March,33 KG,PCS,0,1-Mar-18,0
+118,Purchased,2018,March,45 KG,PCS,0,1-Mar-18,0
+119,Refilled Cylinder,2018,March,12 KG,PCS,49054.6875,1-Mar-18,48073.59375
+120,Refilled Cylinder,2018,March,33 KG,PCS,98.109375,1-Mar-18,96.1471875
+121,Refilled Cylinder,2018,March,45 KG,PCS,19.621875,1-Mar-18,19.2294375
+122,Delivered,2018,March,12 KG,PKG,1962.1875,1-Mar-18,1922.94375
+123,Delivered,2018,March,12 KG,RFL,29432.8125,1-Mar-18,28844.15625
+124,Delivered,2018,March,33 KG,PKG,98.109375,1-Mar-18,96.1471875
+125,Delivered,2018,March,33 KG,RFL,49.0546875,1-Mar-18,48.07359375
+126,Delivered,2018,March,45 KG,PKG,19.621875,1-Mar-18,19.2294375
+127,Delivered,2018,March,45 KG,RFL,9.8109375,1-Mar-18,9.61471875
+128,Bulk Gas Delivered,2018,March,LPG (Bulk),MT,53.96015625,1-Mar-18,52.88095313
+129,Manufactured,2018,April,12 KG,PCS,47.0925,1-Apr-18,46.15065
+130,Manufactured,2018,April,33 KG,PCS,5232.5,1-Apr-18,5127.85
+131,Manufactured,2018,April,45 KG,PCS,209.3,1-Apr-18,205.114
+132,Purchased,2018,April,12 KG,PCS,104.65,1-Apr-18,102.557
+133,Purchased,2018,April,33 KG,PCS,8372,1-Apr-18,8204.56
+134,Purchased,2018,April,45 KG,PCS,3662.75,1-Apr-18,3589.495
+135,Refilled Cylinder,2018,April,12 KG,PCS,0,1-Apr-18,0
+136,Refilled Cylinder,2018,April,33 KG,PCS,57557.5,1-Apr-18,56406.35
+137,Refilled Cylinder,2018,April,45 KG,PCS,313.95,1-Apr-18,307.671
+138,Delivered,2018,April,12 KG,PKG,125.58,1-Apr-18,123.0684
+139,Delivered,2018,April,12 KG,RFL,10465,1-Apr-18,10255.7
+140,Delivered,2018,April,33 KG,PKG,47092.5,1-Apr-18,46150.65
+141,Delivered,2018,April,33 KG,RFL,209.3,1-Apr-18,205.114
+142,Delivered,2018,April,45 KG,PKG,156.975,1-Apr-18,153.8355
+143,Delivered,2018,April,45 KG,RFL,209.3,1-Apr-18,205.114
+144,Bulk Gas Delivered,2018,April,LPG (Bulk),MT,104.65,1-Apr-18,102.557
+145,Manufactured,2018,May,12 KG,PCS,81.627,1-May-18,79.99446
+146,Manufactured,2018,May,33 KG,PCS,1569.75,1-May-18,1538.355
+147,Manufactured,2018,May,45 KG,PCS,261.625,1-May-18,256.3925
+148,Purchased,2018,May,12 KG,PCS,104.65,1-May-18,102.557
+149,Purchased,2018,May,33 KG,PCS,0,1-May-18,0
+150,Purchased,2018,May,45 KG,PCS,0,1-May-18,0
+151,Refilled Cylinder,2018,May,12 KG,PCS,0,1-May-18,0
+152,Refilled Cylinder,2018,May,33 KG,PCS,52325,1-May-18,51278.5
+153,Refilled Cylinder,2018,May,45 KG,PCS,104.65,1-May-18,102.557
+154,Delivered,2018,May,12 KG,PKG,20.93,1-May-18,20.5114
+155,Delivered,2018,May,12 KG,RFL,2093,1-May-18,2051.14
+156,Delivered,2018,May,33 KG,PKG,31395,1-May-18,30767.1
+157,Delivered,2018,May,33 KG,RFL,104.65,1-May-18,102.557
+158,Delivered,2018,May,45 KG,PKG,52.325,1-May-18,51.2785
+159,Delivered,2018,May,45 KG,RFL,20.93,1-May-18,20.5114
+160,Bulk Gas Delivered,2018,May,LPG (Bulk),MT,10.465,1-May-18,10.2557
+161,Manufactured,2018,June,12 KG,PCS,1365,1-Jun-18,1337.7
+162,Manufactured,2018,June,33 KG,PCS,227.5,1-Jun-18,222.95
+163,Manufactured,2018,June,45 KG,PCS,91,1-Jun-18,89.18
+164,Purchased,2018,June,12 KG,PCS,27300,1-Jun-18,26754
+165,Purchased,2018,June,33 KG,PCS,6370,1-Jun-18,6242.6
+166,Purchased,2018,June,45 KG,PCS,455,1-Jun-18,445.9
+167,Refilled Cylinder,2018,June,12 KG,PCS,45500,1-Jun-18,44590
+168,Refilled Cylinder,2018,June,33 KG,PCS,91,1-Jun-18,89.18
+169,Refilled Cylinder,2018,June,45 KG,PCS,18.2,1-Jun-18,17.836
+170,Delivered,2018,June,12 KG,PKG,1820,1-Jun-18,1783.6
+171,Delivered,2018,June,12 KG,RFL,27300,1-Jun-18,26754
+172,Delivered,2018,June,33 KG,PKG,91,1-Jun-18,89.18
+173,Delivered,2018,June,33 KG,RFL,45.5,1-Jun-18,44.59
+174,Delivered,2018,June,45 KG,PKG,18.2,1-Jun-18,17.836
+175,Delivered,2018,June,45 KG,RFL,9.1,1-Jun-18,8.918
+176,Bulk Gas Delivered,2018,June,LPG (Bulk),MT,27.3,1-Jun-18,26.754
+177,Manufactured,2018,July,12 KG,PCS,2730,1-Jul-18,2675.4
+178,Manufactured,2018,July,33 KG,PCS,136.5,1-Jul-18,133.77
+179,Manufactured,2018,July,45 KG,PCS,45.5,1-Jul-18,44.59
+180,Purchased,2018,July,12 KG,PCS,0,1-Jul-18,0
+181,Purchased,2018,July,33 KG,PCS,0,1-Jul-18,0
+182,Purchased,2018,July,45 KG,PCS,0,1-Jul-18,0
+183,Refilled Cylinder,2018,July,12 KG,PCS,36400,1-Jul-18,35672
+184,Refilled Cylinder,2018,July,33 KG,PCS,109.2,1-Jul-18,107.016
+185,Refilled Cylinder,2018,July,45 KG,PCS,18.2,1-Jul-18,17.836
+186,Delivered,2018,July,12 KG,PKG,4095,1-Jul-18,4013.1
+187,Delivered,2018,July,12 KG,RFL,40950,1-Jul-18,40131
+188,Delivered,2018,July,33 KG,PKG,91,1-Jul-18,89.18
+189,Delivered,2018,July,33 KG,RFL,68.25,1-Jul-18,66.885
+190,Delivered,2018,July,45 KG,PKG,91,1-Jul-18,89.18
+191,Delivered,2018,July,45 KG,RFL,45.5,1-Jul-18,44.59
+192,Bulk Gas Delivered,2018,July,LPG (Bulk),MT,40.95,1-Jul-18,40.131
+193,Manufactured,2018,August,12 KG,PCS,4550,1-Aug-18,4459
+194,Manufactured,2018,August,33 KG,PCS,182,1-Aug-18,178.36
+195,Manufactured,2018,August,45 KG,PCS,91,1-Aug-18,89.18
+196,Purchased,2018,August,12 KG,PCS,7280,1-Aug-18,7134.4
+197,Purchased,2018,August,33 KG,PCS,3185,1-Aug-18,3121.3
+198,Purchased,2018,August,45 KG,PCS,0,1-Aug-18,0
+199,Refilled Cylinder,2018,August,12 KG,PCS,50050,1-Aug-18,49049
+200,Refilled Cylinder,2018,August,33 KG,PCS,273,1-Aug-18,267.54
+201,Refilled Cylinder,2018,August,45 KG,PCS,109.2,1-Aug-18,107.016
+202,Delivered,2018,August,12 KG,PKG,9100,1-Aug-18,8918
+203,Delivered,2018,August,12 KG,RFL,40950,1-Aug-18,40131
+204,Delivered,2018,August,33 KG,PKG,182,1-Aug-18,178.36
+205,Delivered,2018,August,33 KG,RFL,136.5,1-Aug-18,133.77
+206,Delivered,2018,August,45 KG,PKG,182,1-Aug-18,178.36
+207,Delivered,2018,August,45 KG,RFL,91,1-Aug-18,89.18
+208,Bulk Gas Delivered,2018,August,LPG (Bulk),MT,70.98,1-Aug-18,69.5604
+209,Manufactured,2018,September,12 KG,PCS,3412.5,1-Sep-18,3344.25
+210,Manufactured,2018,September,33 KG,PCS,170.625,1-Sep-18,167.2125
+211,Manufactured,2018,September,45 KG,PCS,56.875,1-Sep-18,55.7375
+212,Purchased,2018,September,12 KG,PCS,0,1-Sep-18,0
+213,Purchased,2018,September,33 KG,PCS,0,1-Sep-18,0
+214,Purchased,2018,September,45 KG,PCS,0,1-Sep-18,0
+215,Refilled Cylinder,2018,September,12 KG,PCS,45500,1-Sep-18,44590
+216,Refilled Cylinder,2018,September,33 KG,PCS,136.5,1-Sep-18,133.77
+217,Refilled Cylinder,2018,September,45 KG,PCS,22.75,1-Sep-18,22.295
+218,Delivered,2018,September,12 KG,PKG,5118.75,1-Sep-18,5016.375
+219,Delivered,2018,September,12 KG,RFL,51187.5,1-Sep-18,50163.75
+220,Delivered,2018,September,33 KG,PKG,113.75,1-Sep-18,111.475
+221,Delivered,2018,September,33 KG,RFL,85.3125,1-Sep-18,83.60625
+222,Delivered,2018,September,45 KG,PKG,113.75,1-Sep-18,111.475
+223,Delivered,2018,September,45 KG,RFL,56.875,1-Sep-18,55.7375
+224,Bulk Gas Delivered,2018,September,LPG (Bulk),MT,51.1875,1-Sep-18,50.16375
+225,Manufactured,2018,October,12 KG,PCS,5687.5,1-Oct-18,5573.75
+226,Manufactured,2018,October,33 KG,PCS,227.5,1-Oct-18,222.95
+227,Manufactured,2018,October,45 KG,PCS,113.75,1-Oct-18,111.475
+228,Purchased,2018,October,12 KG,PCS,9100,1-Oct-18,8918
+229,Purchased,2018,October,33 KG,PCS,3981.25,1-Oct-18,3901.625
+230,Purchased,2018,October,45 KG,PCS,0,1-Oct-18,0
+231,Refilled Cylinder,2018,October,12 KG,PCS,62562.5,1-Oct-18,61311.25
+232,Refilled Cylinder,2018,October,33 KG,PCS,341.25,1-Oct-18,334.425
+233,Refilled Cylinder,2018,October,45 KG,PCS,136.5,1-Oct-18,133.77
+234,Delivered,2018,October,12 KG,PKG,11375,1-Oct-18,11147.5
+235,Delivered,2018,October,12 KG,RFL,51187.5,1-Oct-18,50163.75
+236,Delivered,2018,October,33 KG,PKG,227.5,1-Oct-18,222.95
+237,Delivered,2018,October,33 KG,RFL,170.625,1-Oct-18,167.2125
+238,Delivered,2018,October,45 KG,PKG,227.5,1-Oct-18,222.95
+239,Delivered,2018,October,45 KG,RFL,113.75,1-Oct-18,111.475
+240,Bulk Gas Delivered,2018,October,LPG (Bulk),MT,88.725,1-Oct-18,86.9505
+241,Manufactured,2018,November,12 KG,PCS,1706.25,1-Nov-18,1672.125
+242,Manufactured,2018,November,33 KG,PCS,284.375,1-Nov-18,278.6875
+243,Manufactured,2018,November,45 KG,PCS,113.75,1-Nov-18,111.475
+244,Purchased,2018,November,12 KG,PCS,0,1-Nov-18,0
+245,Purchased,2018,November,33 KG,PCS,0,1-Nov-18,0
+246,Purchased,2018,November,45 KG,PCS,0,1-Nov-18,0
+247,Refilled Cylinder,2018,November,12 KG,PCS,56875,1-Nov-18,55737.5
+248,Refilled Cylinder,2018,November,33 KG,PCS,113.75,1-Nov-18,111.475
+249,Refilled Cylinder,2018,November,45 KG,PCS,22.75,1-Nov-18,22.295
+250,Delivered,2018,November,12 KG,PKG,2275,1-Nov-18,2229.5
+251,Delivered,2018,November,12 KG,RFL,34125,1-Nov-18,33442.5
+252,Delivered,2018,November,33 KG,PKG,113.75,1-Nov-18,111.475
+253,Delivered,2018,November,33 KG,RFL,56.875,1-Nov-18,55.7375
+254,Delivered,2018,November,45 KG,PKG,22.75,1-Nov-18,22.295
+255,Delivered,2018,November,45 KG,RFL,11.375,1-Nov-18,11.1475
+256,Bulk Gas Delivered,2018,November,LPG (Bulk),MT,62.5625,1-Nov-18,61.31125
+257,Manufactured,2018,December,12 KG,PCS,1820,1-Dec-18,1783.6
+258,Manufactured,2018,December,33 KG,PCS,0,1-Dec-18,0
+259,Manufactured,2018,December,45 KG,PCS,0,1-Dec-18,0
+260,Purchased,2018,December,12 KG,PCS,0,1-Dec-18,0
+261,Purchased,2018,December,33 KG,PCS,0,1-Dec-18,0
+262,Purchased,2018,December,45 KG,PCS,0,1-Dec-18,0
+263,Refilled Cylinder,2018,December,12 KG,PCS,36400,1-Dec-18,35672
+264,Refilled Cylinder,2018,December,33 KG,PCS,273,1-Dec-18,267.54
+265,Refilled Cylinder,2018,December,45 KG,PCS,91,1-Dec-18,89.18
+266,Delivered,2018,December,12 KG,PKG,910,1-Dec-18,891.8
+267,Delivered,2018,December,12 KG,RFL,27300,1-Dec-18,26754
+268,Delivered,2018,December,33 KG,PKG,0,1-Dec-18,0
+269,Delivered,2018,December,33 KG,RFL,455,1-Dec-18,445.9
+270,Delivered,2018,December,45 KG,PKG,0,1-Dec-18,0
+271,Delivered,2018,December,45 KG,RFL,273,1-Dec-18,267.54
+272,Bulk Gas Delivered,2018,December,LPG (Bulk),MT,34.58,1-Dec-18,33.8884
+273,Manufactured,2019,January,12 KG,PCS,3750,1-Jan-19,3675
+274,Manufactured,2019,January,33 KG,PCS,187.5,1-Jan-19,183.75
+275,Manufactured,2019,January,45 KG,PCS,62.5,1-Jan-19,61.25
+276,Purchased,2019,January,12 KG,PCS,0,1-Jan-19,0
+277,Purchased,2019,January,33 KG,PCS,0,1-Jan-19,0
+278,Purchased,2019,January,45 KG,PCS,0,1-Jan-19,0
+279,Refilled Cylinder,2019,January,12 KG,PCS,50000,1-Jan-19,49000
+280,Refilled Cylinder,2019,January,33 KG,PCS,150,1-Jan-19,147
+281,Refilled Cylinder,2019,January,45 KG,PCS,25,1-Jan-19,24.5
+282,Delivered,2019,January,12 KG,PKG,5625,1-Jan-19,5512.5
+283,Delivered,2019,January,12 KG,RFL,56250,1-Jan-19,55125
+284,Delivered,2019,January,33 KG,PKG,125,1-Jan-19,122.5
+285,Delivered,2019,January,33 KG,RFL,93.75,1-Jan-19,91.875
+286,Delivered,2019,January,45 KG,PKG,125,1-Jan-19,122.5
+287,Delivered,2019,January,45 KG,RFL,62.5,1-Jan-19,61.25
+288,Bulk Gas Delivered,2019,January,LPG (Bulk),MT,56.25,1-Jan-19,55.125
+289,Manufactured,2019,February,12 KG,PCS,6250,1-Feb-19,6125
+290,Manufactured,2019,February,33 KG,PCS,250,1-Feb-19,245
+291,Manufactured,2019,February,45 KG,PCS,125,1-Feb-19,122.5
+292,Purchased,2019,February,12 KG,PCS,10000,1-Feb-19,9800
+293,Purchased,2019,February,33 KG,PCS,4375,1-Feb-19,4287.5
+294,Purchased,2019,February,45 KG,PCS,0,1-Feb-19,0
+295,Refilled Cylinder,2019,February,12 KG,PCS,68750,1-Feb-19,67375
+296,Refilled Cylinder,2019,February,33 KG,PCS,375,1-Feb-19,367.5
+297,Refilled Cylinder,2019,February,45 KG,PCS,150,1-Feb-19,147
+298,Delivered,2019,February,12 KG,PKG,12500,1-Feb-19,12250
+299,Delivered,2019,February,12 KG,RFL,56250,1-Feb-19,55125
+300,Delivered,2019,February,33 KG,PKG,250,1-Feb-19,245
+301,Delivered,2019,February,33 KG,RFL,187.5,1-Feb-19,183.75
+302,Delivered,2019,February,45 KG,PKG,250,1-Feb-19,245
+303,Delivered,2019,February,45 KG,RFL,125,1-Feb-19,122.5
+304,Bulk Gas Delivered,2019,February,LPG (Bulk),MT,97.5,1-Feb-19,95.55
+305,Manufactured,2019,March,12 KG,PCS,1875,1-Mar-19,1837.5
+306,Manufactured,2019,March,33 KG,PCS,312.5,1-Mar-19,306.25
+307,Manufactured,2019,March,45 KG,PCS,125,1-Mar-19,122.5
+308,Purchased,2019,March,12 KG,PCS,0,1-Mar-19,0
+309,Purchased,2019,March,33 KG,PCS,0,1-Mar-19,0
+310,Purchased,2019,March,45 KG,PCS,0,1-Mar-19,0
+311,Refilled Cylinder,2019,March,12 KG,PCS,62500,1-Mar-19,61250
+312,Refilled Cylinder,2019,March,33 KG,PCS,125,1-Mar-19,122.5
+313,Refilled Cylinder,2019,March,45 KG,PCS,25,1-Mar-19,24.5
+314,Delivered,2019,March,12 KG,PKG,2500,1-Mar-19,2450
+315,Delivered,2019,March,12 KG,RFL,37500,1-Mar-19,36750
+316,Delivered,2019,March,33 KG,PKG,125,1-Mar-19,122.5
+317,Delivered,2019,March,33 KG,RFL,62.5,1-Mar-19,61.25
+318,Delivered,2019,March,45 KG,PKG,25,1-Mar-19,24.5
+319,Delivered,2019,March,45 KG,RFL,12.5,1-Mar-19,12.25
+320,Bulk Gas Delivered,2019,March,LPG (Bulk),MT,68.75,1-Mar-19,67.375
+321,Manufactured,2019,April,12 KG,PCS,2812.5,1-Apr-19,2756.25
+322,Manufactured,2019,April,33 KG,PCS,140.625,1-Apr-19,137.8125
+323,Manufactured,2019,April,45 KG,PCS,46.875,1-Apr-19,45.9375
+324,Purchased,2019,April,12 KG,PCS,0,1-Apr-19,0
+325,Purchased,2019,April,33 KG,PCS,0,1-Apr-19,0
+326,Purchased,2019,April,45 KG,PCS,0,1-Apr-19,0
+327,Refilled Cylinder,2019,April,12 KG,PCS,37500,1-Apr-19,36750
+328,Refilled Cylinder,2019,April,33 KG,PCS,112.5,1-Apr-19,110.25
+329,Refilled Cylinder,2019,April,45 KG,PCS,18.75,1-Apr-19,18.375
+330,Delivered,2019,April,12 KG,PKG,4218.75,1-Apr-19,4134.375
+331,Delivered,2019,April,12 KG,RFL,42187.5,1-Apr-19,41343.75
+332,Delivered,2019,April,33 KG,PKG,93.75,1-Apr-19,91.875
+333,Delivered,2019,April,33 KG,RFL,70.3125,1-Apr-19,68.90625
+334,Delivered,2019,April,45 KG,PKG,93.75,1-Apr-19,91.875
+335,Delivered,2019,April,45 KG,RFL,46.875,1-Apr-19,45.9375
+336,Bulk Gas Delivered,2019,April,LPG (Bulk),MT,42.1875,1-Apr-19,41.34375
+337,Manufactured,2019,May,12 KG,PCS,5390.625,1-May-19,5282.8125
+338,Manufactured,2019,May,33 KG,PCS,215.625,1-May-19,211.3125
+339,Manufactured,2019,May,45 KG,PCS,107.8125,1-May-19,105.65625
+340,Purchased,2019,May,12 KG,PCS,8625,1-May-19,8452.5
+341,Purchased,2019,May,33 KG,PCS,3773.4375,1-May-19,3697.96875
+342,Purchased,2019,May,45 KG,PCS,0,1-May-19,0
+343,Refilled Cylinder,2019,May,12 KG,PCS,59296.875,1-May-19,58110.9375
+344,Refilled Cylinder,2019,May,33 KG,PCS,323.4375,1-May-19,316.96875
+345,Refilled Cylinder,2019,May,45 KG,PCS,129.375,1-May-19,126.7875
+346,Delivered,2019,May,12 KG,PKG,10781.25,1-May-19,10565.625
+347,Delivered,2019,May,12 KG,RFL,48515.625,1-May-19,47545.3125
+348,Delivered,2019,May,33 KG,PKG,215.625,1-May-19,211.3125
+349,Delivered,2019,May,33 KG,RFL,161.71875,1-May-19,158.484375
+350,Delivered,2019,May,45 KG,PKG,215.625,1-May-19,211.3125
+351,Delivered,2019,May,45 KG,RFL,107.8125,1-May-19,105.65625
+352,Bulk Gas Delivered,2019,May,LPG (Bulk),MT,84.09375,1-May-19,82.411875
+353,Manufactured,2019,June,12 KG,PCS,1617.1875,1-Jun-19,1584.84375
+354,Manufactured,2019,June,33 KG,PCS,269.53125,1-Jun-19,264.140625
+355,Manufactured,2019,June,45 KG,PCS,107.8125,1-Jun-19,105.65625
+356,Purchased,2019,June,12 KG,PCS,0,1-Jun-19,0
+357,Purchased,2019,June,33 KG,PCS,0,1-Jun-19,0
+358,Purchased,2019,June,45 KG,PCS,0,1-Jun-19,0
+359,Refilled Cylinder,2019,June,12 KG,PCS,53906.25,1-Jun-19,52828.125
+360,Refilled Cylinder,2019,June,33 KG,PCS,107.8125,1-Jun-19,105.65625
+361,Refilled Cylinder,2019,June,45 KG,PCS,21.5625,1-Jun-19,21.13125
+362,Delivered,2019,June,12 KG,PKG,2156.25,1-Jun-19,2113.125
+363,Delivered,2019,June,12 KG,RFL,32343.75,1-Jun-19,31696.875
+364,Delivered,2019,June,33 KG,PKG,107.8125,1-Jun-19,105.65625
+365,Delivered,2019,June,33 KG,RFL,53.90625,1-Jun-19,52.828125
+366,Delivered,2019,June,45 KG,PKG,21.5625,1-Jun-19,21.13125
+367,Delivered,2019,June,45 KG,RFL,10.78125,1-Jun-19,10.565625
+368,Bulk Gas Delivered,2019,June,LPG (Bulk),MT,59.296875,1-Jun-19,58.1109375
+369,Manufactured,2019,July,12 KG,PCS,51.75,1-Jul-19,50.715
+370,Manufactured,2019,July,33 KG,PCS,5750,1-Jul-19,5635
+371,Manufactured,2019,July,45 KG,PCS,230,1-Jul-19,225.4
+372,Purchased,2019,July,12 KG,PCS,115,1-Jul-19,112.7
+373,Purchased,2019,July,33 KG,PCS,9200,1-Jul-19,9016
+374,Purchased,2019,July,45 KG,PCS,4025,1-Jul-19,3944.5
+375,Refilled Cylinder,2019,July,12 KG,PCS,0,1-Jul-19,0
+376,Refilled Cylinder,2019,July,33 KG,PCS,63250,1-Jul-19,61985
+377,Refilled Cylinder,2019,July,45 KG,PCS,345,1-Jul-19,338.1
+378,Delivered,2019,July,12 KG,PKG,138,1-Jul-19,135.24
+379,Delivered,2019,July,12 KG,RFL,11500,1-Jul-19,11270
+380,Delivered,2019,July,33 KG,PKG,51750,1-Jul-19,50715
+381,Delivered,2019,July,33 KG,RFL,230,1-Jul-19,225.4
+382,Delivered,2019,July,45 KG,PKG,172.5,1-Jul-19,169.05
+383,Delivered,2019,July,45 KG,RFL,230,1-Jul-19,225.4
+384,Bulk Gas Delivered,2019,July,LPG (Bulk),MT,115,1-Jul-19,112.7
+385,Manufactured,2019,August,12 KG,PCS,89.7,1-Aug-19,87.906
+386,Manufactured,2019,August,33 KG,PCS,1725,1-Aug-19,1690.5
+387,Manufactured,2019,August,45 KG,PCS,287.5,1-Aug-19,281.75
+388,Purchased,2019,August,12 KG,PCS,115,1-Aug-19,112.7
+389,Purchased,2019,August,33 KG,PCS,0,1-Aug-19,0
+390,Purchased,2019,August,45 KG,PCS,0,1-Aug-19,0
+391,Refilled Cylinder,2019,August,12 KG,PCS,0,1-Aug-19,0
+392,Refilled Cylinder,2019,August,33 KG,PCS,57500,1-Aug-19,56350
+393,Refilled Cylinder,2019,August,45 KG,PCS,115,1-Aug-19,112.7
+394,Delivered,2019,August,12 KG,PKG,23,1-Aug-19,22.54
+395,Delivered,2019,August,12 KG,RFL,2300,1-Aug-19,2254
+396,Delivered,2019,August,33 KG,PKG,34500,1-Aug-19,33810
+397,Delivered,2019,August,33 KG,RFL,115,1-Aug-19,112.7
+398,Delivered,2019,August,45 KG,PKG,57.5,1-Aug-19,56.35
+399,Delivered,2019,August,45 KG,RFL,23,1-Aug-19,22.54
+400,Bulk Gas Delivered,2019,August,LPG (Bulk),MT,11.5,1-Aug-19,11.27

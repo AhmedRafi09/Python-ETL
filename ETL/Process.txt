@@ -1,0 +1,9 @@
+1. External Table 
+2. Python program to move data from a directory to External Table location
+	i. Shcedule python program to run automatically
+	ii. Convert python program into windows runnable program; eg: .bat file
+3. Staging Table 
+	i. On insert/update into Staging table, create control/log table
+4. Merge External Table & Staging Table to load new data in Staging Table
+	i. On merge in Staging table, trigger stored procedure to load data into DW
+5. Finally load to DW Table
